@@ -1,5 +1,5 @@
 {
-  "name": "express-app",
+  "name": "mongodb",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -19,6 +19,6 @@
     "express-session": "^1.19.0",
     "mongoose": "^9.7.2",
     "passport": "^0.7.0",
-    "serverless-http": "^4.0.0"
+    "passport-local": "^1.0.0"
   }
 }
